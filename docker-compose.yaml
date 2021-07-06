@@ -1,0 +1,6 @@
+version: "3.7"
+services:
+  migration:
+    build:
+      context: .
+      dockerfile: Dockerfile
